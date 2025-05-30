@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <style>
+            body{
+                color: black;
+            }
+            h1{
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                color: rgb(153, 50, 204,0.6);
+                border: 2px ;
+            }
+            p{
+                color: ghostwhite;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>MY FIRST HTML DOCUMENT</h1>
+        <p>I want to learn various programming lamguages and develop some skills like <br> 1.Video editing <br> 2.3D animation <br> 3.Communication skills</p>
+    </body>
+</html>
